@@ -1,3 +1,3 @@
 # Ini adalah latihan membuat repository membuat branch baru di repository
 
-GITHUB ITU KEREN
+belajar di dicoding itu sangat seru sekaliii!!!!
